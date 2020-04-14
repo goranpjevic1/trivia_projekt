@@ -1,0 +1,1416 @@
+{
+  "unrecognizedCountries": [
+    {
+      "name": "Abhazija",
+      "capitalCity": "Suhumi",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
+      "capitalCityDate": "1993"
+    },
+    {
+      "name": "Severni Ciper",
+      "capitalCity": "Severna Nikozija",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg",
+      "capitalCityDate": "1983"
+    },
+    {
+      "name": "Kosovo",
+      "capitalCity": "Priština",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+      "capitalCityDate": "2008"
+    },
+    {
+      "name": "Artsakh",
+      "capitalCity": "Step'anakert",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/3d/Flag_of_Artsakh.svg",
+      "capitalCityDate": "1992"
+    },
+    {
+      "name": "Južna Osetija",
+      "capitalCity": "Tskhinvali",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_South_Ossetia.svg",
+      "capitalCityDate": "1991"
+    },
+    {
+      "name": "Zahodna Sahara",
+      "capitalCity": "El Aaiún",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+      "capitalCityDate": "1976",
+      "population": "36635156"
+    },
+    {
+      "name": "Somaliland",
+      "capitalCity": "Hargheisa",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Somaliland.svg",
+      "capitalCityDate": "1993"
+    },
+    {
+      "name": "Transnistrija",
+      "capitalCity": "Tiraspol",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Transnistria_%28state%29.svg",
+      "capitalCityDate": "1990"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Afganistan",
+      "capitalCity": "Kabul",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+      "capitalCityDate": "1776",
+      "population": "37209007"
+    },
+    {
+      "name": "Albanija",
+      "capitalCity": "Tirana",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "capitalCityDate": "1920",
+      "population": "2938428"
+    },
+    {
+      "name": "Alžirija",
+      "capitalCity": "Alžir",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+      "capitalCityDate": "1962",
+      "population": "42679018"
+    },
+    {
+      "name": "Andora",
+      "capitalCity": "Andorra la Vella",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "capitalCityDate": "1278",
+      "population": "77072"
+    },
+    {
+      "name": "Angola",
+      "capitalCity": "Luanda",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+      "capitalCityDate": "1975",
+      "population": "31787566"
+    },
+    {
+      "name": "Antigva in Barbuda",
+      "capitalCity": "St. John's",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+      "capitalCityDate": "1981",
+      "population": "104084"
+    },
+    {
+      "name": "Savdska Arabija",
+      "capitalCity": "Riad",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "capitalCityDate": "1818"
+    },
+    {
+      "name": "Argentina",
+      "capitalCity": "Buenos Aires",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+      "capitalCityDate": "1816",
+      "population": "45101781"
+    },
+    {
+      "name": "Armenija",
+      "capitalCity": "Erevan",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "capitalCityDate": "1990",
+      "population": "2936706"
+    },
+    {
+      "name": "Avstralija",
+      "capitalCity": "Canberra",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+      "capitalCityDate": "1927",
+      "population": "25088636"
+    },
+    {
+      "name": "Avstrija",
+      "capitalCity": "Dunaj",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "capitalCityDate": "1955",
+      "population": "8766201"
+    },
+    {
+      "name": "Azerbajdžan",
+      "capitalCity": "Baku",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "capitalCityDate": "342",
+      "population": "10014575"
+    },
+    {
+      "name": "Bahami",
+      "capitalCity": "Nassau",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+      "capitalCityDate": "1973",
+      "population": "403095"
+    },
+    {
+      "name": "Bahrajn",
+      "capitalCity": "Manama",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+      "capitalCityDate": "1971",
+      "population": "1637896"
+    },
+    {
+      "name": "Bangladeš",
+      "capitalCity": "Daka",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+      "capitalCityDate": "1971",
+      "population": "168065920"
+    },
+    {
+      "name": "Barbados",
+      "capitalCity": "Bridgetown",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+      "capitalCityDate": "1966",
+      "population": "287010"
+    },
+    {
+      "name": "Belgija",
+      "capitalCity": "Bruselj",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+      "capitalCityDate": "1830",
+      "population": "11562784"
+    },
+    {
+      "name": "Belize",
+      "capitalCity": "Belmopan",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+      "capitalCityDate": "1970",
+      "population": "390231"
+    },
+    {
+      "name": "Benin",
+      "capitalCity": "Porto-Novo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+      "capitalCityDate": "1960",
+      "population": "11801595"
+    },
+    {
+      "name": "Butan",
+      "capitalCity": "Thimphu",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+      "capitalCityDate": "1907",
+      "population": "826229"
+    },
+    {
+      "name": "Belorusija",
+      "capitalCity": "Minsk",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "capitalCityDate": "1991",
+      "population": "9433874"
+    },
+    {
+      "name": "Mjanmar",
+      "capitalCity": "Jangon",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+      "population": "54336138"
+    },
+    {
+      "name": "Bolivija",
+      "capitalCity": "La Paz",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+      "capitalCityDate": "1898",
+      "population": "11379861"
+    },
+    {
+      "name": "Bosna in Hercegovina",
+      "capitalCity": "Sarajevo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+      "capitalCityDate": "1992",
+      "population": "3501774"
+    },
+    {
+      "name": "Bocvana",
+      "capitalCity": "Gaborone",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+      "capitalCityDate": "1966",
+      "population": "2374636"
+    },
+    {
+      "name": "Brazilija",
+      "capitalCity": "Brasilia",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+      "capitalCityDate": "1960",
+      "population": "212392717"
+    },
+    {
+      "name": "Brunej",
+      "capitalCity": "Bandar Seri Begawan",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+      "capitalCityDate": "1984",
+      "population": "439336"
+    },
+    {
+      "name": "Bolgarija",
+      "capitalCity": "Sofija",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "capitalCityDate": "1878",
+      "population": "6988739"
+    },
+    {
+      "name": "Burkina Faso",
+      "capitalCity": "Ouagadougou",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+      "capitalCityDate": "1960",
+      "population": "20321560"
+    },
+    {
+      "name": "Burundi",
+      "capitalCity": "Gitega",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+      "capitalCityDate": "1962",
+      "population": "11575964"
+    },
+    {
+      "name": "Kambodža",
+      "capitalCity": "Phnom Penh",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+      "capitalCityDate": "1954",
+      "population": "16482646"
+    },
+    {
+      "name": "Kamerun",
+      "capitalCity": "Yaoundé",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+      "capitalCityDate": "1960",
+      "population": "25312993"
+    },
+    {
+      "name": "Kanada",
+      "capitalCity": "Ottawa",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+      "capitalCityDate": "1931",
+      "population": "37279811"
+    },
+    {
+      "name": "Zelenortski otoki",
+      "capitalCity": "Praia",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+      "capitalCityDate": "1975",
+      "population": "560349"
+    },
+    {
+      "name": "Češka",
+      "capitalCity": "Praga",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "capitalCityDate": "1993",
+      "population": "10630589"
+    },
+    {
+      "name": "Srednjeafriška republika",
+      "capitalCity": "Bangui",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+      "capitalCityDate": "1960",
+      "population": "4825711"
+    },
+    {
+      "name": "Čad",
+      "capitalCity": "N'Djamena",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+      "capitalCityDate": "1960",
+      "population": "15814345"
+    },
+    {
+      "name": "Čile",
+      "capitalCity": "Santiago de Chile",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+      "capitalCityDate": "1975",
+      "population": "18336653"
+    },
+    {
+      "name": "Kitajska",
+      "capitalCity": "Peking",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+      "capitalCityDate": "1949",
+      "population": "1420062022"
+    },
+    {
+      "name": "Ciper",
+      "capitalCity": "Nikozija",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "capitalCityDate": "1960",
+      "population": "1198427"
+    },
+    {
+      "name": "Kolumbija",
+      "capitalCity": "Bogotá",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+      "capitalCityDate": "1819",
+      "population": "49849818"
+    },
+    {
+      "name": "Komori",
+      "capitalCity": "Moroni",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+      "capitalCityDate": "1975",
+      "population": "850910"
+    },
+    {
+      "name": "Zahodni Kongo",
+      "capitalCity": "Brazzaville",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+      "capitalCityDate": "1960"
+    },
+    {
+      "name": "Vzhodni Kongo",
+      "capitalCity": "Kinšasa",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+      "capitalCityDate": "1966",
+      "population": "86727573"
+    },
+    {
+      "name": "Severna Koreja",
+      "capitalCity": "Pjongjang",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+      "capitalCityDate": "1948",
+      "population": "25727408"
+    },
+    {
+      "name": "Južna Koreja",
+      "capitalCity": "Seul",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+      "capitalCityDate": "1948",
+      "population": "51339238"
+    },
+    {
+      "name": "Slonokoščena obala",
+      "capitalCity": "Yamoussoukro",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+      "capitalCityDate": "1983",
+      "population": "25531083"
+    },
+    {
+      "name": "Kostarika",
+      "capitalCity": "San José",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+      "capitalCityDate": "1838",
+      "population": "4999384"
+    },
+    {
+      "name": "Hrvaška",
+      "capitalCity": "Zagreb",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "capitalCityDate": "1992",
+      "population": "4140148"
+    },
+    {
+      "name": "Kuba",
+      "capitalCity": "Havana",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+      "capitalCityDate": "1902",
+      "population": "11492046"
+    },
+    {
+      "name": "Danska",
+      "capitalCity": "København",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "capitalCityDate": "1443",
+      "population": "5775224"
+    },
+    {
+      "name": "Dominika",
+      "capitalCity": "Roseau",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+      "capitalCityDate": "1978",
+      "population": "10996774"
+    },
+    {
+      "name": "Dominikanska republika",
+      "capitalCity": "Santo Domingo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+      "capitalCityDate": "1865",
+      "population": "10996774"
+    },
+    {
+      "name": "Ekvador",
+      "capitalCity": "Quito",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+      "capitalCityDate": "1830",
+      "population": "17100444"
+    },
+    {
+      "name": "Egipt",
+      "capitalCity": "Kairo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+      "capitalCityDate": "1936",
+      "population": "101168745"
+    },
+    {
+      "name": "Salvador",
+      "capitalCity": "San Salvador",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+      "capitalCityDate": "1821",
+      "population": "6445405"
+    },
+    {
+      "name": "Združeni arabski emirati",
+      "capitalCity": "Abu Dabi",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+      "capitalCityDate": "1971",
+      "population": "9682088"
+    },
+    {
+      "name": "Eritreja",
+      "capitalCity": "Asmara",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+      "capitalCityDate": "1993",
+      "population": "5309659"
+    },
+    {
+      "name": "Estonija",
+      "capitalCity": "Talin",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "capitalCityDate": "1991",
+      "population": "1303798"
+    },
+    {
+      "name": "Etiopija",
+      "capitalCity": "Adis Abeba",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+      "capitalCityDate": "1941",
+      "population": "110135635"
+    },
+    {
+      "name": "Fidži",
+      "capitalCity": "Suva",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+      "capitalCityDate": "1877",
+      "population": "918757"
+    },
+    {
+      "name": "Filipini",
+      "capitalCity": "Manila",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+      "capitalCityDate": "1946",
+      "population": "108106310"
+    },
+    {
+      "name": "Finska",
+      "capitalCity": "Helsinki",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "capitalCityDate": "1812",
+      "population": "5561389"
+    },
+    {
+      "name": "Francija",
+      "capitalCity": "Pariz",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "capitalCityDate": "1944",
+      "population": "65480710"
+    },
+    {
+      "name": "Gabon",
+      "capitalCity": "Libreville",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+      "capitalCityDate": "1960",
+      "population": "2109099"
+    },
+    {
+      "name": "Gambija",
+      "capitalCity": "Banjul",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+      "capitalCityDate": "1989",
+      "population": "2228075"
+    },
+    {
+      "name": "Gruzija",
+      "capitalCity": "Tbilisi",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "capitalCityDate": "1993",
+      "population": "3904204"
+    },
+    {
+      "name": "Nemčija",
+      "capitalCity": "Berlin",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "capitalCityDate": "1990",
+      "population": "82438639"
+    },
+    {
+      "name": "Gana",
+      "capitalCity": "Akra",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+      "capitalCityDate": "1887",
+      "population": "30096970"
+    },
+    {
+      "name": "Jamajka",
+      "capitalCity": "Kingston",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+      "capitalCityDate": "1872",
+      "population": "2906339"
+    },
+    {
+      "name": "Japonska",
+      "capitalCity": "Tokio",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+      "capitalCityDate": "1878",
+      "population": "126854745"
+    },
+    {
+      "name": "Džibuti",
+      "capitalCity": "Džibuti",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+      "capitalCityDate": "1997",
+      "population": "985690"
+    },
+    {
+      "name": "Jordanija",
+      "capitalCity": "Aman",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+      "capitalCityDate": "1946",
+      "population": "10069794"
+    },
+    {
+      "name": "Grčija",
+      "capitalCity": "Atene",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "capitalCityDate": "1829",
+      "population": "11124603"
+    },
+    {
+      "name": "Grenada",
+      "capitalCity": "Saint George's",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+      "capitalCityDate": "1974",
+      "population": "108825"
+    },
+    {
+      "name": "Gvatemala",
+      "capitalCity": "Ciudad Guatemala",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+      "capitalCityDate": "1839",
+      "population": "17577842"
+    },
+    {
+      "name": "Gvineja",
+      "capitalCity": "Conakry",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+      "capitalCityDate": "1958",
+      "population": "13398180"
+    },
+    {
+      "name": "Gvineja Bissau",
+      "capitalCity": "Bissau",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+      "capitalCityDate": "1974",
+      "population": "1953723"
+    },
+    {
+      "name": "Ekvitorialna Gvineja",
+      "capitalCity": "Malabo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+      "capitalCityDate": "1968"
+    },
+    {
+      "name": "Gvajana",
+      "capitalCity": "Georgetown",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+      "capitalCityDate": "1966",
+      "population": "65480710"
+    },
+    {
+      "name": "Haiti",
+      "capitalCity": "Port-au-Prince",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+      "capitalCityDate": "1804",
+      "population": "11242856"
+    },
+    {
+      "name": "Honduras",
+      "capitalCity": "Tegucigalpa",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+      "capitalCityDate": "1888",
+      "population": "9568688"
+    },
+    {
+      "name": "Indija",
+      "capitalCity": "New Delhi",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+      "capitalCityDate": "1912",
+      "population": "1368737513"
+    },
+    {
+      "name": "Indonezija",
+      "capitalCity": "Džakarta",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+      "capitalCityDate": "1949",
+      "population": "269536482"
+    },
+    {
+      "name": "Iran",
+      "capitalCity": "Teheran",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+      "capitalCityDate": "1794",
+      "population": "82820766"
+    },
+    {
+      "name": "Irak",
+      "capitalCity": "Bagdad",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+      "capitalCityDate": "1932",
+      "population": "40412299"
+    },
+    {
+      "name": "Irska",
+      "capitalCity": "Dublin",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "capitalCityDate": "1660",
+      "population": "4847139"
+    },
+    {
+      "name": "Islandija",
+      "capitalCity": "Reykjavík",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+      "capitalCityDate": "1944",
+      "population": "340566"
+    },
+    {
+      "name": "Marshallovi otoki",
+      "capitalCity": "Majuro",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+      "capitalCityDate": "1986",
+      "population": "53211"
+    },
+    {
+      "name": "Izrael",
+      "capitalCity": "Jeruzalem",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+      "capitalCityDate": "1980",
+      "population": "8583916"
+    },
+    {
+      "name": "Italija",
+      "capitalCity": "Rim",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "capitalCityDate": "1871",
+      "population": "59216525"
+    },
+    {
+      "name": "Kazahstan",
+      "capitalCity": "Nursultan",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "capitalCityDate": "1998",
+      "population": "18592970"
+    },
+    {
+      "name": "Kenija",
+      "capitalCity": "Nairobi",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+      "capitalCityDate": "1963",
+      "population": "52214791"
+    },
+    {
+      "name": "Kirgizistan",
+      "capitalCity": "Biškek",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+      "capitalCityDate": "1991",
+      "population": "6218616"
+    },
+    {
+      "name": "Kiribati",
+      "capitalCity": "Tarava",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+      "capitalCityDate": "1979",
+      "population": "120428"
+    },
+    {
+      "name": "Kuvajt",
+      "capitalCity": "Kuvajt",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+      "capitalCityDate": "1961",
+      "population": "4248974"
+    },
+    {
+      "name": "Laos",
+      "capitalCity": "Vientiane",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+      "capitalCityDate": "1954",
+      "population": "7064242"
+    },
+    {
+      "name": "Lesoto",
+      "capitalCity": "Maseru",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+      "capitalCityDate": "1966",
+      "population": "2292682"
+    },
+    {
+      "name": "Latvija",
+      "capitalCity": "Riga",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "capitalCityDate": "1991",
+      "population": "1911108"
+    },
+    {
+      "name": "Libanon",
+      "capitalCity": "Bejrut",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+      "capitalCityDate": "1946",
+      "population": "6065922"
+    },
+    {
+      "name": "Liberija",
+      "capitalCity": "Monrovija",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+      "capitalCityDate": "1847",
+      "population": "4977720"
+    },
+    {
+      "name": "Libija",
+      "capitalCity": "Tripoli",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+      "capitalCityDate": "1951",
+      "population": "6569864"
+    },
+    {
+      "name": "Lihtenštajn",
+      "capitalCity": "Vaduz",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "population": "38404"
+    },
+    {
+      "name": "Litva",
+      "capitalCity": "Vilna",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "capitalCityDate": "1940",
+      "population": "2864459"
+    },
+    {
+      "name": "Luksemburg",
+      "capitalCity": "Luksemburg",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "capitalCityDate": "1890",
+      "population": "596992"
+    },
+    {
+      "name": "Severna Makedonija",
+      "capitalCity": "Skopje",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "capitalCityDate": "1991",
+      "population": "2086720"
+    },
+    {
+      "name": "Madagaskar",
+      "capitalCity": "Antananarivo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+      "capitalCityDate": "1960",
+      "population": "26969642"
+    },
+    {
+      "name": "Malavi",
+      "capitalCity": "Lilongwe",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+      "capitalCityDate": "1974",
+      "population": "19718743"
+    },
+    {
+      "name": "Malezija",
+      "capitalCity": "Kuala Lumpur",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+      "capitalCityDate": "1957",
+      "population": "32454455"
+    },
+    {
+      "name": "Maldivi",
+      "capitalCity": "Malé",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+      "capitalCityDate": "1968",
+      "population": "451738"
+    },
+    {
+      "name": "Mali",
+      "capitalCity": "Bamako",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+      "capitalCityDate": "1960",
+      "population": "19689140"
+    },
+    {
+      "name": "Malta",
+      "capitalCity": "Valletta",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+      "capitalCityDate": "1974",
+      "population": "433245"
+    },
+    {
+      "name": "Maroko",
+      "capitalCity": "Rabat",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+      "capitalCityDate": "1956",
+      "population": "36635156"
+    },
+    {
+      "name": "Mavritanija",
+      "capitalCity": "Nouakchott",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Mauritania_%281959%E2%80%932017%29.svg",
+      "capitalCityDate": "1960"
+    },
+    {
+      "name": "Mauricij",
+      "capitalCity": "Port Louis",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+      "capitalCityDate": "1968"
+    },
+    {
+      "name": "Mehika",
+      "capitalCity": "Ciudad de México",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+      "capitalCityDate": "1521",
+      "population": "132328035"
+    },
+    {
+      "name": "Mikronezija",
+      "capitalCity": "Palikir",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+      "capitalCityDate": "1989",
+      "population": "536579"
+    },
+    {
+      "name": "Moldavija",
+      "capitalCity": "Kišinjev",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "capitalCityDate": "1991",
+      "population": "4029750"
+    },
+    {
+      "name": "Monako",
+      "capitalCity": "Monako",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+      "capitalCityDate": "1861",
+      "population": "39102"
+    },
+    {
+      "name": "Mongolija",
+      "capitalCity": "Ulan Bator",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+      "capitalCityDate": "1924",
+      "population": "3166244"
+    },
+    {
+      "name": "Črna gora",
+      "capitalCity": "Podgorica",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "capitalCityDate": "2006",
+      "population": "629355"
+    },
+    {
+      "name": "Mozambik",
+      "capitalCity": "Maputo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+      "capitalCityDate": "1975",
+      "population": "31408823"
+    },
+    {
+      "name": "Namibija",
+      "capitalCity": "Windhoek",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+      "capitalCityDate": "1971",
+      "population": "2641996"
+    },
+    {
+      "name": "Nauru",
+      "capitalCity": "Yaren",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+      "capitalCityDate": "1968",
+      "population": "11260"
+    },
+    {
+      "name": "Nepal",
+      "capitalCity": "Katmandu",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+      "capitalCityDate": "1768",
+      "population": "29942018"
+    },
+    {
+      "name": "Nikaragva",
+      "capitalCity": "Managua",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+      "capitalCityDate": "1838",
+      "population": "6351157"
+    },
+    {
+      "name": "Niger",
+      "capitalCity": "Niamey",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+      "capitalCityDate": "1960",
+      "population": "200962417"
+    },
+    {
+      "name": "Nigerija",
+      "capitalCity": "Abuja",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "capitalCityDate": "1991",
+      "population": "200962417"
+    },
+    {
+      "name": "Norveška",
+      "capitalCity": "Oslo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "capitalCityDate": "1299",
+      "population": "5400916"
+    },
+    {
+      "name": "Nova Zelandija",
+      "capitalCity": "Wellington",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "capitalCityDate": "1865",
+      "population": "4792409"
+    },
+    {
+      "name": "Oman",
+      "capitalCity": "Muškat",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+      "capitalCityDate": "1970",
+      "population": "5001875"
+    },
+    {
+      "name": "Nizozemska",
+      "capitalCity": "Amsterdam",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "capitalCityDate": "1795",
+      "population": "17132908"
+    },
+    {
+      "name": "Pakistan",
+      "capitalCity": "Islamabad",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "capitalCityDate": "1967",
+      "population": "204596442"
+    },
+    {
+      "name": "Palav",
+      "capitalCity": "Melekeok",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+      "capitalCityDate": "2006",
+      "population": "22206"
+    },
+    {
+      "name": "Palestina",
+      "capitalCity": "Ramallah",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+      "capitalCityDate": "1988",
+      "population": "5186790"
+    },
+    {
+      "name": "Panama",
+      "capitalCity": "Panamá",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+      "capitalCityDate": "1903",
+      "population": "4226197"
+    },
+    {
+      "name": "Papuanska Nova Gvineja",
+      "capitalCity": "Port Moresby",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+      "capitalCityDate": "1975"
+    },
+    {
+      "name": "Paragvaj",
+      "capitalCity": "Asunción",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+      "capitalCityDate": "1811",
+      "population": "6981981"
+    },
+    {
+      "name": "Peru",
+      "capitalCity": "Lima",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+      "capitalCityDate": "1836",
+      "population": "32933835"
+    },
+    {
+      "name": "Poljska",
+      "capitalCity": "Varšava",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "capitalCityDate": "1918",
+      "population": "38028278"
+    },
+    {
+      "name": "Portugalska",
+      "capitalCity": "Lizbona",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "capitalCityDate": "1821",
+      "population": "10254666"
+    },
+    {
+      "name": "Katar",
+      "capitalCity": "Doha",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "capitalCityDate": "1971",
+      "population": "2743901"
+    },
+    {
+      "name": "Združeno kraljestvo",
+      "capitalCity": "London",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg",
+      "capitalCityDate": "1066",
+      "population": "66959016"
+    },
+    {
+      "name": "Romunija",
+      "capitalCity": "Bukarešta",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "capitalCityDate": "1878",
+      "population": "19483360"
+    },
+    {
+      "name": "Ruanda",
+      "capitalCity": "Kigali",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+      "capitalCityDate": "1962",
+      "population": "12794412"
+    },
+    {
+      "name": "Rusija",
+      "capitalCity": "Moskva",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "capitalCityDate": "1918",
+      "population": "143895551"
+    },
+    {
+      "name": "Sveti Krištof in Nevis",
+      "capitalCity": "Basseterre",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+      "capitalCityDate": "1983",
+      "population": "56345"
+    },
+    {
+      "name": "Sveti Vincencij in Grenadine",
+      "capitalCity": "Kingstown",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+      "capitalCityDate": "1979",
+      "population": "110488"
+    },
+    {
+      "name": "Salomonovi otoki",
+      "capitalCity": "Honiara",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+      "capitalCityDate": "1942",
+      "population": "635254"
+    },
+    {
+      "name": "Samoa",
+      "capitalCity": "Apia",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+      "capitalCityDate": "1962",
+      "population": "329093110"
+    },
+    {
+      "name": "San Marino",
+      "capitalCity": "San Marino",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "capitalCityDate": "301",
+      "population": "33683"
+    },
+    {
+      "name": "Sveta Lucija",
+      "capitalCity": "Castries",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+      "capitalCityDate": "1979",
+      "population": "180454"
+    },
+    {
+      "name": "Sveti Tomaž in Princ",
+      "capitalCity": "Sveti Tomaž",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+      "capitalCityDate": "1975",
+      "population": "213379"
+    },
+    {
+      "name": "Senegal",
+      "capitalCity": "Dakar",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+      "capitalCityDate": "1960",
+      "population": "16743859"
+    },
+    {
+      "name": "Srbija",
+      "capitalCity": "Beograd",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "capitalCityDate": "1945",
+      "population": "8733407"
+    },
+    {
+      "name": "Sejšeli",
+      "capitalCity": "Viktorija",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+      "capitalCityDate": "1976",
+      "population": "95702"
+    },
+    {
+      "name": "Sierra Leone",
+      "capitalCity": "Freetown",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+      "capitalCityDate": "1961",
+      "population": "6005250"
+    },
+    {
+      "name": "Singapur",
+      "capitalCity": "Singapur",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+      "capitalCityDate": "1965",
+      "population": "5868104"
+    },
+    {
+      "name": "Sirija",
+      "capitalCity": "Damask",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+      "capitalCityDate": "1961",
+      "population": "18499181"
+    },
+    {
+      "name": "Slovaška",
+      "capitalCity": "Bratislava",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "capitalCityDate": "1993",
+      "population": "5450987"
+    },
+    {
+      "name": "Slovenija",
+      "capitalCity": "Ljubljana",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "capitalCityDate": "1991",
+      "population": "2081900"
+    },
+    {
+      "name": "Somalija",
+      "capitalCity": "Mogadiš",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+      "capitalCityDate": "1960",
+      "population": "15636171"
+    },
+    {
+      "name": "Španija",
+      "capitalCity": "Madrid",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "capitalCityDate": "1606",
+      "population": "46441049"
+    },
+    {
+      "name": "Šri Lanka",
+      "capitalCity": "Šri Džajavardenapura Kote",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+      "capitalCityDate": "1982"
+    },
+    {
+      "name": "Združene države Amerike",
+      "capitalCity": "Washington, D.C.",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "capitalCityDate": "1800",
+      "population": "329093110"
+    },
+    {
+      "name": "Južnoafriška republika",
+      "capitalCity": "Bloemfontein",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+      "capitalCityDate": "1901"
+    },
+    {
+      "name": "Sudan",
+      "capitalCity": "Kartum",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+      "capitalCityDate": "1961",
+      "population": "42514094"
+    },
+    {
+      "name": "Južni Sudan",
+      "capitalCity": "Džuba",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+      "capitalCityDate": "2011",
+      "population": "13263184"
+    },
+    {
+      "name": "Surinam",
+      "capitalCity": "Paramaribo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+      "capitalCityDate": "1975",
+      "population": "573085"
+    },
+    {
+      "name": "Švedska",
+      "capitalCity": "Stockholm",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "capitalCityDate": "1814",
+      "population": "10053135"
+    },
+    {
+      "name": "Švica",
+      "capitalCity": "Bern",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "capitalCityDate": "1848",
+      "population": "8608259"
+    },
+    {
+      "name": "Svazi",
+      "capitalCity": "Lobamba",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+      "capitalCityDate": "1968"
+    },
+    {
+      "name": "Tadžikistan",
+      "capitalCity": "Dušanbe",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+      "capitalCityDate": "1991",
+      "population": "9292000"
+    },
+    {
+      "name": "Tajvan",
+      "capitalCity": "Tajpej",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+      "capitalCityDate": "1949",
+      "population": "23758247"
+    },
+    {
+      "name": "Tanzanija",
+      "capitalCity": "Dodoma",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+      "capitalCityDate": "1996",
+      "population": "60913557"
+    },
+    {
+      "name": "Tajska",
+      "capitalCity": "Bangkok",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+      "capitalCityDate": "1782",
+      "population": "1420062022"
+    },
+    {
+      "name": "Vzhodni Timor",
+      "capitalCity": "Dili",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+      "capitalCityDate": "1975",
+      "population": "1352360"
+    },
+    {
+      "name": "Togo",
+      "capitalCity": "Lomé",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+      "capitalCityDate": "1960",
+      "population": "8186384"
+    },
+    {
+      "name": "Tonga",
+      "capitalCity": "Nukuʻalofa",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+      "capitalCityDate": "1970",
+      "population": "110041"
+    },
+    {
+      "name": "Trinidad in Tobago",
+      "capitalCity": "Port of Spain",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+      "capitalCityDate": "1783",
+      "population": "1375443"
+    },
+    {
+      "name": "Tunizija",
+      "capitalCity": "Tunis",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+      "capitalCityDate": "1159",
+      "population": "11783168"
+    },
+    {
+      "name": "Turčija",
+      "capitalCity": "Ankara",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "capitalCityDate": "1923",
+      "population": "82961805"
+    },
+    {
+      "name": "Turkmenistan",
+      "capitalCity": "Ašhabad",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+      "capitalCityDate": "1991",
+      "population": "5942561"
+    },
+    {
+      "name": "Tuvalu",
+      "capitalCity": "Funafuti",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+      "capitalCityDate": "1978",
+      "population": "11393"
+    },
+    {
+      "name": "Ukrajina",
+      "capitalCity": "Kijev",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "capitalCityDate": "1991",
+      "population": "43795220"
+    },
+    {
+      "name": "Uganda",
+      "capitalCity": "Kampala",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+      "capitalCityDate": "1962",
+      "population": "45711874"
+    },
+    {
+      "name": "Madžarska",
+      "capitalCity": "Budimpešta",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "capitalCityDate": "1873",
+      "population": "9655361"
+    },
+    {
+      "name": "Urugvaj",
+      "capitalCity": "Montevideo",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "capitalCityDate": "1828",
+      "population": "3482156"
+    },
+    {
+      "name": "Uzbekistan",
+      "capitalCity": "Taškent",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+      "capitalCityDate": "1930",
+      "population": "32807368"
+    },
+    {
+      "name": "Vanuatu",
+      "capitalCity": "Port Vila",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+      "capitalCityDate": "1980",
+      "population": "288017"
+    },
+    {
+      "name": "Vatikan",
+      "capitalCity": "Vatikan",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+      "capitalCityDate": "1929",
+      "population": "799"
+    },
+    {
+      "name": "Venezuela",
+      "capitalCity": "Caracas",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+      "capitalCityDate": "1830",
+      "population": "32777868"
+    },
+    {
+      "name": "Vietnam",
+      "capitalCity": "Hanoj",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+      "capitalCityDate": "1976",
+      "population": "97429061"
+    },
+    {
+      "name": "Jemen",
+      "capitalCity": "San'a",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+      "capitalCityDate": "1990",
+      "population": "29579986"
+    },
+    {
+      "name": "Zambija",
+      "capitalCity": "Lusaka",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+      "capitalCityDate": "1964",
+      "population": "18137369"
+    },
+    {
+      "name": "Zimbabve",
+      "capitalCity": "Harare",
+      "FlagPhotoSource": "upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+      "capitalCityDate": "1923",
+      "population": "17297495"
+    }
+  ]
+}
