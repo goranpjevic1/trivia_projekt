@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/trivia_projekt.iml" filepath="$PROJECT_DIR$/trivia_projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countries_html_to_json.iml" filepath="$PROJECT_DIR$/countries_html_to_json.iml" />
     </modules>
   </component>
 </project>
