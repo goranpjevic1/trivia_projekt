@@ -5,4 +5,4 @@ Uporabljene knjižnice:
  - json-simple
  - gson
  
- Ustvarjena json datoteka: trivia_projekt/countries.json
+ Ustvarjena json datoteka: countries.json
