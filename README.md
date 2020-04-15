@@ -5,4 +5,4 @@ Uporabljene knjižnice:
  - json-simple
  - gson
  
- Ustvarjena json datoteka: countries.json
+ Ustvarjena .json datoteka: countries.json
